@@ -1,4 +1,4 @@
-const questionsBank = [
+const questions = [
     {
         category: "قواعد السير والأولوية",
         question: "عند الوصول إلى تقاطع طرق متساوية الأهمية بدون شواخص مرورية، لمن تكون أولوية المرور؟",
@@ -34,9 +34,7 @@ const questionsBank = [
             "طريق مغلق"
         ],
         correctIndex: 2
-    }
-];
-const questionsBank = [
+    },
     // السؤال 1
     {
         category: "قواعد السير",
